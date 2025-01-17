@@ -18,3 +18,10 @@ Whether it's building apps, solving problems, or experimenting with new technolo
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<br />
+
+---
+
+### My Code in Action
+Apps:
+- Axus: https://apps.apple.com/se/app/axus/id6479329143?l=en-GB 
